@@ -36,8 +36,7 @@
 
 ### 📊 GitHub stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reograyson&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reograyson&layout=compact&hide_border=true" />
 </p>
 
-<p align="center"><i>"The best way to predict the future is to build it."</i></p>
