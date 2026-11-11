@@ -34,9 +34,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-### 📊 GitHub stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reograyson&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reograyson&layout=compact&hide_border=true" />
-</p>
-
