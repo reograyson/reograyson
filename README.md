@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Reo!</h1>
-<p align="center">
+<p align="left">
   I am a Final year student with great interest in AI,Data,SW.
 </p>
 
