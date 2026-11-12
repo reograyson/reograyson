@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Reo 👋</h1>
+<h1 align="center">Hello, I'm Reo!</h1>
 <p align="center">
-  ICT Student · Building LLMs, computer vision & automation
+  I am a Final year student with great interest in AI,Data,SW.
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@
 ---
 
 ### 🤖 About me
-- 🧠 I love turning AI ideas into things people can actually use, from quick prototypes to working tools
-- 🔭 Currently exploring **LLM apps & agents**, **computer vision**, and **AI-powered automation**
-- 🌱 Learning: RAG pipelines, fine-tuning, model deployment (MLOps)
-- 🎓 B.Sc. Information Technology, Rangsit University (Dec 2026)
-- 💼 Digitalization trainee by day, AI researcher by night
-- 📫 Open to **AI / ML / SW / Digitalization engineering** opportunities from early 2027
+- I love making fun projects
+- Currently exploring **LLM apps & agents**, **computer vision**, and **AI-powered automation**
+  Learning: RAG pipelines, fine-tuning, model deployment (MLOps)
+- B.Sc. Information Technology, Rangsit University (Dec 2026)
+- Digitalization trainee by day, AI researcher by night
+- Open to **AI / ML / SW / Digitalization engineering** opportunities from early 2027
 
 ### 🛠️ Tech stack
 **AI / ML**
